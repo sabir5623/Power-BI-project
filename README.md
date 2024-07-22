@@ -1,2 +1,2 @@
 # Power-BI-project
-Amazon Sales
+Here you find all my power bi project 
