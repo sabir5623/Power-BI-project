@@ -1,2 +1,2 @@
-# Power-BI-project
-Here you find all my power bi project 
+# Power-BI-Amazon-Sales-Dashboard
+
